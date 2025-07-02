@@ -6,8 +6,8 @@ Sistema web simples em PHP e MySQL para cadastro de produtos, desenvolvido para 
 Este é um sistema simples de cadastro e listagem de produtos desenvolvido para a Uniasselvi, utilizando **PHP, MySQL, HTML e CSS**.
 
 ## Funcionalidades
-✅ Cadastro de produtos (nome, preço, quantidade)  
-✅ Listagem de produtos cadastrados
+Cadastro de produtos (nome, preço, quantidade)  
+Listagem de produtos cadastrados
 
 ## Como rodar
 
